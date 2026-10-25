@@ -14,3 +14,9 @@
 - **Minimal reporting:** identify what changed, its commit, whether live serving was tested, what remains private, added cost and next user approval/technical gate. No new client, income or distribution claims merely from publishing a hub page.
 
 Private reviews are routed through each project's already approved **Restricted Google Drive** workflow, not through this public GitHub Pages repository. Content can appear on this site **only after separate, explicit public release authorization**.
+
+## Capability names and scope changes
+
+- **Names describe real present function.** Use accurate names and titles for files, apps, pages, documentation, folders, features and user-visible links. Do not call a proposal a deployed service, a test a production capability or a demo a paying-client result. Label planned/blocked/unverified stages plainly.
+- **Rename when scope actually changes:** when a verified or intentionally approved *design* expands from video-only review to general **Private Media Review**, update the canonical title/path and all affected current references together. Keep a video-only checker, actual media asset, historically bound document, existing folder or external OAuth app name specific until *its* scope truly expands and required provider/site compatibility is verified. Preserve original artifacts and their Git recovery evidence; don't create parallel canonical versions.
+- **Private Media Review means a delivery design, not deployed cross-format support.** Media types need their own source-rights, decode/render/playback and device QA. Use the originating project's Restricted private storage and permission gates; do not share credentials, cross-project files or automatically publish to the common public Pages area. Every public item still requires exact release approval.
